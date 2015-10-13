@@ -1,3 +1,3 @@
 ﻿# YouTube User Videos Parser
 
-	var videos = YouTubeUserVideos.GetFromUser("SinemaSins");
+	var videos = YouTubeUserVideos.GetFromUser("FailArmy");

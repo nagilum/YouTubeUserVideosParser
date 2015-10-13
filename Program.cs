@@ -10,7 +10,7 @@ namespace YouTubeUserVideosParser {
 		static void Main(string[] args) {
 			Console.WriteLine("Downloading Source");
 
-			var list = YouTubeUserVideos.GetFromUser("SinemaSins");
+			var list = YouTubeUserVideos.GetFromUser("FailArmy");
 
 			Console.WriteLine("Found " + list.Count + " videos.");
 
