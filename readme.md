@@ -1,5 +1,7 @@
 ﻿# YouTube User Videos Parser
 
+A simple C# class to fetch a list of latest YouTube videos for a user.
+
 	var videos = YouTubeUserVideos.GetFromUser("FailArmy");
 
 This will give you a list of the latest videos (50 I believe) from the given user.
